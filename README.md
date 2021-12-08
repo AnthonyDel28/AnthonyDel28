@@ -5,8 +5,9 @@ Junior Designer :art:
 Student Web Developer :computer:  
 ### Langages :beginner:  
 
-![C](https://img.shields.io/badge/%23C-Beginner-drakgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-drakgreen)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-orange)
+![#C](https://img.shields.io/badge/%23C-Intermediate-orange)
 ![Shell](https://img.shields.io/badge/Shell-Advanced-blue)
 ![HTML](https://img.shields.io/badge/HTML-Advanced-blue)
 ![CSS](https://img.shields.io/badge/CSS-Advanced-blue)
