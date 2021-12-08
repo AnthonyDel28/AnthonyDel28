@@ -1,8 +1,9 @@
-## About me :dart:  (Anthony D. :cowboy_hat_face:, Bruxelles :belgium:, 25 Years Old :birthday:)
+## About me :dart:  (Anthony D. :cowboy_hat_face:, Bruxelles :belgium:, 25 Years Old :birthday:) 
+
 
 Junior Designer :art:  
 Student Web Developer :computer:  
-### Langages :beginner: 
+### Langages :beginner:  
 
 ![C](https://img.shields.io/badge/%23C-Beginner-drakgreen)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-orange)
