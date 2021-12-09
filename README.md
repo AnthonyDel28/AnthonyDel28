@@ -3,6 +3,7 @@
 
 Junior Designer :art:  
 Student Web Developer :computer:  
+Crypto Investor :coin:	
 ### Langages :beginner:  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-drakgreen)
