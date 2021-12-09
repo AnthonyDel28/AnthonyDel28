@@ -22,3 +22,4 @@ Crypto Investor :coin:
 ![Wordpress](https://img.shields.io/badge/Wordpress-Pro-red)
 ![Photoshop](https://img.shields.io/badge/Photoshop-Pro-red)
 ![AfterEffects](https://img.shields.io/badge/AfterEffects-Expert-ff69b4)
+![Solidity](https://img.shields.io/badge/Solidity(Ethereum)-Advanced-blue)
