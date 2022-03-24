@@ -6,7 +6,7 @@ Student Web Developer :computer:
 Crypto Investor :coin:	
 ### Langages :beginner:  
 
-![Python](https://img.shields.io/badge/JavaScript-Beginner-drakgreen)
+![Python](https://img.shields.io/badge/Python-Beginner-drakgreen)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-orange)
 ![#C](https://img.shields.io/badge/%23C-Intermediate-orange)
 ![Shell](https://img.shields.io/badge/Shell-Advanced-blue)
