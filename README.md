@@ -3,7 +3,7 @@
 
 Junior Designer :art:  
 Student Web Developer :computer:  
-Crypto Investor :coin:	
+Crypto Investor :diamond_shape_with_a_dot_inside:
 ### Langages :beginner:  
 
 ![Python](https://img.shields.io/badge/Python-Beginner-drakgreen)
