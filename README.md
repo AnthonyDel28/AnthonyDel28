@@ -7,7 +7,7 @@ Crypto Investor :diamond_shape_with_a_dot_inside:
 ### Langages :beginner:  
 
 ![Python](https://img.shields.io/badge/Python-Beginner-drakgreen)
-![PHP](https://img.shields.io/badge/PHP-Intermediate-orange)
+![PHP](https://img.shields.io/badge/PHP-Advanced-blue)
 ![#C](https://img.shields.io/badge/%23C-Intermediate-orange)
 ![Shell](https://img.shields.io/badge/Shell-Advanced-blue)
 ![HTML](https://img.shields.io/badge/HTML-Advanced-blue)
