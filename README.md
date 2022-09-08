@@ -6,6 +6,7 @@ Student Web Developer :computer:
 Crypto Investor :diamond_shape_with_a_dot_inside:
 ### Langages :beginner:  
 
+![JS](https://img.shields.io/badge/JS-Beginner-drakgreen)
 ![Python](https://img.shields.io/badge/Python-Beginner-drakgreen)
 ![#C](https://img.shields.io/badge/%23C-Intermediate-orange)
 ![PHP](https://img.shields.io/badge/PHP-Advanced-blue)
