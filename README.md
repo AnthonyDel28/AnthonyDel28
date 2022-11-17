@@ -1,7 +1,6 @@
 ## About me :dart:  (Anthony D. :cowboy_hat_face:, Bruxelles :belgium:, 25 Years Old :birthday:) 
 
-
-Junior Designer :art:  
+  
 Student Web Developer :computer:  
 Crypto Investor :diamond_shape_with_a_dot_inside:
 ### Langages :beginner:  
