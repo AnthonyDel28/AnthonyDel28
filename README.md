@@ -1,4 +1,4 @@
-## About me :dart:  (Anthony D. :cowboy_hat_face:, Bruxelles :belgium:, 25 Years Old :birthday:) 
+## About me :dart:  (Anthony D. :cowboy_hat_face:, Belgium 🇧🇪, 26 Years Old :birthday:) 
 
   
 Student Web Developer :computer:  
