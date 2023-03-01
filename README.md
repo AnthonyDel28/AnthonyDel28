@@ -24,7 +24,7 @@ Want to know more about me?
 
 ### &nbsp;&nbsp; 📈 Statistics 
 <a href="https://github.com/AnthonyDel28">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyDel28&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&layout=compact" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyDel28&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/AnthonyDel28">
