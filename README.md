@@ -19,5 +19,6 @@ Want to know more about me?
 [![Subheader](https://i.ibb.co/DtLWnSM/image-5.png)](javascript:void(0);)
 [![Subheader](https://i.ibb.co/hMGKmRb/image-6.png)](javascript:void(0);)
 [![Subheader](https://i.ibb.co/0yZZfv8/image-3.png)](javascript:void(0);)
+[![Subheader](https://i.ibb.co/T8vvvJq/image-8.png)](javascript:void(0);)
 [![Subheader](https://i.ibb.co/VQ61qqG/image-4.png)](javascript:void(0);)
 [![Subheader](https://i.ibb.co/fH3C6r3/image-7.png)](javascript:void(0);)
