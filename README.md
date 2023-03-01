@@ -1,5 +1,5 @@
 [![Header](https://i.ibb.co/KxGTBZg/image.png)](javascript:void(0);)
-[![Header](https://i.ibb.co/KxGTBZg/image.png)](javascript:void(0);)
+[![Header](https://www.zupimages.net/up/23/09/uwkv.png)](javascript:void(0);)
 
 
 **Hello and welcome to my Github profile 👨**  
