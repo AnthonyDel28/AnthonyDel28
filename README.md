@@ -1,5 +1,5 @@
-![Anthony Delmeire](https://i.ibb.co/KxGTBZg/image.png)
-![Anthony Delmeire](https://i.ibb.co/W6Pmk7x/image-1.png)
+[![Header](https://i.ibb.co/KxGTBZg/image.png)](javascript:void(0);)
+[![Subheader](https://i.ibb.co/W6Pmk7x/image-1.png)](javascript:void(0);)
 
 **Hello and welcome to my Github profile 👨**  
 
@@ -15,8 +15,8 @@ Want to know more about me?
 [![LinkedIn](https://shields.io/badge/Email-anthonydelmeire2709@gmail.com-blue?logo=Mail.Ru&style=for-the-badge)](mailto:anthonydelmeire2709@gmail.com)  
 
 ### &nbsp;&nbsp; 📝 Skills  
-![Anthony Delmeire](https://i.ibb.co/DtLWnSM/image-5.png)
-![Anthony Delmeire](https://i.ibb.co/hMGKmRb/image-6.png)
-![Anthony Delmeire](https://i.ibb.co/0yZZfv8/image-3.png)
-![Anthony Delmeire](https://i.ibb.co/VQ61qqG/image-4.png)
-![Anthony Delmeire](https://i.ibb.co/fH3C6r3/image-7.png)
+[![Subheader](https://i.ibb.co/DtLWnSM/image-5.png)](javascript:void(0);)
+[![Subheader](https://i.ibb.co/hMGKmRb/image-6.png)](javascript:void(0);)
+[![Subheader](https://i.ibb.co/0yZZfv8/image-3.png)](javascript:void(0);)
+[![Subheader](https://i.ibb.co/VQ61qqG/image-4.png)](javascript:void(0);)
+[![Subheader](https://i.ibb.co/fH3C6r3/image-7.png)](javascript:void(0);)
