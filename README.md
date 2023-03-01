@@ -28,5 +28,7 @@ Want to know more about me?
 </a>
 
 <a href="https://github.com/AnthonyDel28">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=AnthonyDel28&hide=contribs,prs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Anthony's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=AnthonyDel28&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Anthony's GitHub Stats" />
 </a>
+
+
