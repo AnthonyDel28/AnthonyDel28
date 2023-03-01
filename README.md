@@ -4,7 +4,7 @@
 **Hello and welcome to my Github profile 👨**  
 
 ### &nbsp;&nbsp; 📌 About me
-I'm Anthony, a junior web developer. Passionate about development for years, I learned web technologies in order to be able to develop in a full stack way. I develop front end as well as back end, and I have years of experience with Adobe licensing (especially Photoshop). All these skills allow me to be able to develop all the elements of a web application.  
+I'm Anthony, a junior web developer. Passionate about development for years, I learned web technologies in order to be able to develop in a full stack way. I develop front end as well as back end, and I have years of experience with the Adobe license (especially Photoshop). All these skills allow me to be able to develop all the elements of a web application.  
 
 Want to know more about me?  
 
