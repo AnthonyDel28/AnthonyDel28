@@ -1,25 +1,12 @@
-## About me :dart:  (Anthony D. :cowboy_hat_face:, Belgium 🇧🇪, 26 Years Old :birthday:) 
+![Anthony Delmeire](https://i.ibb.co/jWFdYkN/Git-Hub-Header.jpg)
+![Anthony Delmeire](https://i.ibb.co/vXFrrz9/Github-Sub-Header.jpg)
 
-  
-Student Web Developer :computer:  
-Crypto Investor :diamond_shape_with_a_dot_inside:
-### Langages :beginner:  
+**Hello and welcome to my Github profile 👨**  
+I'm Anthony, a junior web developer. Passionate about development for years, I learned web technologies in order to be able to develop in a full stack way. I develop front end as well as back end, and I have years of experience with Adobe licensing (especially Photoshop). All these skills allow me to be able to develop all the elements of a web application.  
+ 
+Want to know more about me?  
+🌐 [My personal Portfolio](https://anthonydlm.com)  
+📧  anthonydelmeire2709@gmail.com
 
-![JS](https://img.shields.io/badge/JS-Beginner-drakgreen)
-![Python](https://img.shields.io/badge/Python-Beginner-drakgreen)
-![#C](https://img.shields.io/badge/%23C-Intermediate-orange)
-![PHP](https://img.shields.io/badge/PHP-Advanced-blue)
-![Shell](https://img.shields.io/badge/Shell-Advanced-blue)
-![HTML](https://img.shields.io/badge/HTML-Advanced-blue)
-![CSS](https://img.shields.io/badge/CSS-Advanced-blue)
-
-
-
-
-
-### Skills :diamond_shape_with_a_dot_inside:
-
-![Wordpress](https://img.shields.io/badge/Wordpress-Pro-red)
-![Photoshop](https://img.shields.io/badge/Photoshop-Pro-red)
-![AfterEffects](https://img.shields.io/badge/AfterEffects-Expert-ff69b4)
-
+https://shields.io/badge/Twitter--green?logo=Twitter&style=social  
+https://shields.io/badge/Javascript-black?logo=JavaScript&style=flat
