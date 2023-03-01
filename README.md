@@ -1,5 +1,5 @@
 ![Anthony Delmeire](https://i.ibb.co/KxGTBZg/image.png)
-![Anthony Delmeire](https://i.ibb.co/W6Pmk7x/image-1.png](https://i.ibb.co/W6Pmk7x/image-1.png)
+![Anthony Delmeire](https://i.ibb.co/W6Pmk7x/image-1.png)
 
 **Hello and welcome to my Github profile 👨**  
 
