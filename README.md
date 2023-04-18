@@ -1,5 +1,4 @@
-[![Header](https://i.ibb.co/44cjphY/Git-Hub-Header.jpg)](#)
-[![Subheader](https://i.ibb.co/RvgLCbF/Git-Hub-Sub-Header.jpg)](#)
+[![Header](https://i.ibb.co/yXT96GZ/Git-Hub-Header-min.png)](#)
 
 **Hello and welcome to my Github profile 👨**  
 
