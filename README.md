@@ -14,12 +14,12 @@ Want to know more about me?
 [![LinkedIn](https://shields.io/badge/anthonydelmeire2709@gmail.com-gray?logo=Mail.Ru&style=for-the-badge)](mailto:anthonydelmeire2709@gmail.com)  
 
 ### &nbsp;&nbsp; 📝 Skills  
-[![Subheader](https://i.ibb.co/DtLWnSM/image-5.png)](#)
-[![Subheader](https://i.ibb.co/hMGKmRb/image-6.png)](#)
-[![Subheader](https://i.ibb.co/0yZZfv8/image-3.png)](#)
-[![Subheader](https://i.ibb.co/T8vvvJq/image-8.png)](#)
-[![Subheader](https://i.ibb.co/VQ61qqG/image-4.png)](#)
-[![Subheader](https://i.ibb.co/fH3C6r3/image-7.png)](#)
+[![Subheader](https://i.ibb.co/yWrJCyN/Skills-Back-min.jpg)](#)
+[![Subheader](https://i.ibb.co/zx3dSsQ/Skills-Front2-min.jpg)](#)
+[![Subheader](https://i.ibb.co/CbT0dwN/Skills-Front1-min.jpg)](#)
+[![Subheader](https://i.ibb.co/N3QyDC8/CSHELL-min.jpg)](#)
+[![Subheader](https://i.ibb.co/Cvjr01P/Skills-Design-min.jpg)](#)
+[![Subheader](https://i.ibb.co/hdpFfFy/Skills-Other-min.jpg)](#)
 
 ### &nbsp;&nbsp; 📈 Statistics 
 
