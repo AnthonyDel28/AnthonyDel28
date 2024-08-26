@@ -8,8 +8,8 @@ I'm Anthony, a junior web developer. Passionate about development for years, I l
 Want to know more about me?  
 
 
-[![Portfolio](https://shields.io/badge/My-Portfolio-blue?logo=Atom&style=for-the-badge)](https://anthonydlm.com)
-[![Twitter Badge](https://shields.io/badge/Twitter-Profile-blue?logo=twitter&style=for-the-badge)](https://twitter.com/Anthony_Dlm28)
+[![Portfolio](https://shields.io/badge/My-Portfolio-blue?logo=Atom&style=for-the-badge)](https://anthonydelmeire.pro)
+[![Twitter Badge](https://shields.io/badge/Twitter-Profile-blue?logo=twitter&style=for-the-badge)](#)
 [![LinkedIn](https://shields.io/badge/LinkedIn-Profile-blue?logo=LinkedIn&style=for-the-badge)](https://www.linkedin.com/in/anthonydelmeire28/)
 [![LinkedIn](https://shields.io/badge/anthonydelmeire2709@gmail.com-gray?logo=Mail.Ru&style=for-the-badge)](mailto:anthonydelmeire2709@gmail.com)  
 
